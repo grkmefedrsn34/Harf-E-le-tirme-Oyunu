@@ -102,8 +102,5 @@
       }
     }
   },
-  "defaultProject": "harf",
-  "cli": {
-    "analytics": "b463d83f-cdd8-485f-99eb-394c129d0ff1"
-  }
+  "defaultProject": "harf"
 }

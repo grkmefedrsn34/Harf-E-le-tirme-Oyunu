@@ -6,3 +6,15 @@
   min-height: 721px;
   background-color: blueviolet;
 }
+
+.pending{
+  color:gray;
+}
+
+.correct{
+  color: green;
+}
+.incorrect{
+  color: red;
+  font-weight: bold;
+}
